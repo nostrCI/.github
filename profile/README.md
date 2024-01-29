@@ -26,6 +26,12 @@ scorecard of nostr apps cross-compatibility rating with other nostr apps.
 4. Iot documents recreatable order of events that leads to poor or lack of cross-compatibility \
 5. Ideally bot either periodically tests apps, or detects new releases of apps, which in turns triggers cross-compatibility testing
 
+### Testimonies
+
+"_Not a terrible idea_" \
+-[Hodlbod](github.com/staab)
+
+
 ### Looking for dev(s) 
 
 I am looking for a dev to help buidl nostrCI. 
