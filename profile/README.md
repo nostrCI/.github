@@ -12,7 +12,7 @@ The obective of nostrCI is to continuously test, score, and document the interac
 
 ### What problem is nostrCI solving?
 
-While [nostr protocol](https://github.com/nostr-protocol), and [NIPs](https://github.com/nostr-protocol/nips) exist, there exist uncertainties and permutations in implementing both protocol, and NIPs. 
+While [nostr protocol](https://github.com/nostr-protocol), and [NIPs](https://github.com/nostr-protocol/nips) exist, [there exist uncertainties and permutations](https://github.com/nostrability/nostrability/issues) in implementing both protocol, and NIPs. 
 Furthermore, the understanding of base spec and NIPs evolves with exprience and time. 
 
 While [nostrability](github.com/nostrability) relies on manual reports, the intent of nostrCI is to automagically, and continously test the cross-compatibility of nostr apps. The end result should be a 
