@@ -31,7 +31,7 @@ scorecard of nostr apps cross-compatibility rating with other nostr apps.
 "_Not a terrible idea_" \
 -[Hodlbod](github.com/staab)
 
-"“This feels like a task bigger than any human.” 
+"_This feels like a task bigger than any human._” 
 -[fiatjaf](github.com/fiatjaf)
 
 
