@@ -34,16 +34,13 @@ scorecard of nostr apps cross-compatibility rating with other nostr apps.
 "_This feels like a task bigger than any human._” 
 -[fiatjaf](github.com/fiatjaf)
 
-
+"_Sounds hard. But valuable._"
+-[Mike Dilger](github.com/mikedilger)
 
 ### Looking for dev(s) 
 
-I am looking for a dev to help buidl nostrCI. 
+Devs: are you brave enough to accept the nostrCI challenge? If you accept this challlenge contact me https://iris.to/npub1zafcms4xya5ap9zr7xxr0jlrtrattwlesytn2s42030lzu0dwlzqpd26k5
 
 ### Funding
 
-Upon track record, and success, this project _may_ be a candidate for [Opensats](https://opensats.org/) funding down the road.
-
-### Contact
-
-https://iris.to/npub1zafcms4xya5ap9zr7xxr0jlrtrattwlesytn2s42030lzu0dwlzqpd26k5
+Upon proof of work, and success, this project _may_ be a candidate for [Opensats](https://opensats.org/) funding down the road.
