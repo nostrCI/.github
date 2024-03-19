@@ -29,6 +29,7 @@ scorecard of nostr apps cross-compatibility rating with other nostr apps.
 ### Testimonies
 
 "_Not a terrible idea_" \
+"_I wouldn't take this job, but I hope someone would._"
 -[Hodlbod](github.com/staab)
 
 "_This feels like a task bigger than any human._” 
